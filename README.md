@@ -1,5 +1,9 @@
 # Peer Academy Platform - Technical Architecture & Development Plans
 
+<p align="center">
+  <img src="https://i.imgur.com/5kJEpl1.png" width="280">
+</p>
+
 ## 🎓 Project Overview
 
 Peer Academy is a revolutionary educational platform that implements merit-based governance, peer evaluation, and philosophical consensus-building across a global network of physical settlements. This repository contains comprehensive technical specifications for building a platform that combines academic excellence with democratic participation through sophisticated algorithms and community-driven governance.
@@ -208,3 +212,4 @@ AGPL-3.0 (Affero GPL)
 
 
 *"We must cooperate, reach intersubjective consensus, and operate within a shared intellectual framework—a shared philosophy of life and the world, and a shared conception of the good."*
+
