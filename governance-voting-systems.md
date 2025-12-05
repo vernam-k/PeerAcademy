@@ -2,7 +2,7 @@
 
 ## Overview
 
-The governance system implements the sophisticated democratic-meritocratic framework. It combines weighted voting based on merit scores, evolutionary rule systems, director powers with constraints, and colloquium decision-making. The system must balance stability with adaptability while preventing both mob rule and authoritarian takeover.
+The governance system implements the sophisticated meritocratic framework. It combines weighted voting based on merit scores, evolutionary rule systems, director powers with constraints, and colloquium decision-making. The system must balance stability with adaptability while preventing both mob rule and authoritarian takeover.
 
 ## Constitutional Framework
 
@@ -1325,3 +1325,4 @@ CREATE INDEX idx_live_votes_session ON live_votes(session_id);
 
 
 This governance and voting system provides the sophisticated meritocratic framework needed for Peer Academy, balancing weighted voting based on merit, evolutionary rule systems, constrained director powers, and transparent decision-making processes.
+
