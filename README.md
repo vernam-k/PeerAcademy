@@ -72,6 +72,7 @@ Peer Academy is a revolutionary educational platform that implements merit-based
 - **Annual Cost**: $590,000 (38% reduction)
 - **Team**: 40-50 students + 3 professional supervisors
 - **Benefits**: Real-world education + cost savings + philosophical alignment
+- **Student Project Managers**: Peer Academy is meritocratic, the high-scorers steer the ship, turning the natural classroom hierarchy into an official governance mechanism
 
 ### Revenue Streams
 - Content monetization and course sales
@@ -212,6 +213,7 @@ AGPL-3.0 (Affero GPL)
 
 
 *"We must cooperate, reach intersubjective consensus, and operate within a shared intellectual framework—a shared philosophy of life and the world, and a shared conception of the good."*
+
 
 
 
