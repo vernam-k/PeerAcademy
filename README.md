@@ -10,7 +10,7 @@ Peer Academy is a revolutionary educational platform that implements merit-based
 
 ### 🌟 Core Innovation
 
-**Student-Built Platform**: Programming students learn by building the very system they're using, reducing development costs by 60-80% while providing unparalleled real-world education and creating deep philosophical alignment between builders and users.
+**Student-Built Platform**: Reduces development costs by 60-80% while providing unparalleled real-world education and creating deep philosophical alignment between builders and users. High baseline — like many elite universities (MIT, Stanford, Carnegie Mellon, Caltech, etc.), the average incoming programming student should already know how to code quite well.
 
 ## 📋 Repository Contents
 
@@ -212,5 +212,6 @@ AGPL-3.0 (Affero GPL)
 
 
 *"We must cooperate, reach intersubjective consensus, and operate within a shared intellectual framework—a shared philosophy of life and the world, and a shared conception of the good."*
+
 
 
