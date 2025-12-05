@@ -195,8 +195,8 @@ We welcome contributors who align with the Peer Academy philosophy of merit-base
 
 - **Project Documentation**: This repository contains complete specifications
 - **Technical Questions**: Review component-specific documentation
-- **Educational Inquiries**: See student developer recruitment plan
-- **Partnership Opportunities**: Contact through governance channels described in specifications
+- **Educational Inquiries**: Eric Orwoll: eric.orwoll@gmail.com
+- **Partnership Opportunities**: Eric Orwoll: eric.orwoll@gmail.com
 
 ## 📜 License
 
@@ -205,5 +205,6 @@ AGPL-3.0 (Affero GPL)
 ---
 
 **Built by students, for students, creating the future of education and democratic governance.**
+
 
 *"We must cooperate, reach intersubjective consensus, and operate within a shared intellectual framework—a shared philosophy of life and the world, and a shared conception of the good."*
