@@ -208,8 +208,9 @@ AGPL-3.0 (Affero GPL)
 
 ---
 
-**Built by students, for students, creating the future of education and democratic governance.**
+**Built by students, for students, creating the future of education and meritocratic governance.**
 
 
 *"We must cooperate, reach intersubjective consensus, and operate within a shared intellectual framework—a shared philosophy of life and the world, and a shared conception of the good."*
+
 
