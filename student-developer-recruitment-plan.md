@@ -28,11 +28,11 @@ This approach embodies the Peer Academy principles:
 ### Target Demographics
 
 #### Primary Targets
+High baseline — like many elite universities (MIT, Stanford, Carnegie Mellon, Caltech, etc.), the average incoming programming student should already know how to code quite well.
 - **Computer Science students** (sophomores through graduate level)
 - **Bootcamp graduates** seeking real-world experience
 - **Self-taught programmers** looking for structured advancement
-- **Career changers** with basic programming skills
-- **International students** seeking practical experience and community
+- **International students** seeking education and community
 
 #### Recruitment Channels
 ```typescript
@@ -477,5 +477,6 @@ Recruiting programming students as platform developers creates a transformative 
 - **Embodies academy principles** of merit-based advancement and peer evaluation
 
 This approach transforms platform development from a cost center into an educational program that generates both technical and philosophical value while building the very system that enables the Peer Academy's revolutionary approach to education and governance.
+
 
 The key to success lies in maintaining rigorous quality standards through professional oversight while empowering students to take genuine ownership of the platform they're building. This creates a virtuous cycle where better students build better platform features, which attract more students, creating an ever-improving system that truly embodies the Peer Academy vision.
